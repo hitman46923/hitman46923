@@ -1,5 +1,5 @@
 ### Привет! 👋
 
-<br>Мои проекты на javascript</br>
-Приложение погоды https://github.com/hitman46923/Weather-App
+Мои проекты на javascript
+Приложение погоды https://github.com/hitman46923/Weather-App <br>
 Приложение погоды сделанное в нетологии https://github.com/hitman46923/js-cp-diploma-edited
