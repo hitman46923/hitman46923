@@ -20,7 +20,12 @@
 
   <div id="badges">
    
-  <img src="https://icons8.com/icon/63306/telegram-app" >
+
+![изображение](https://github.com/hitman46923/hitman46923/assets/38830802/59888052-d464-4225-8b91-7f2324da81aa)
+
+
+
+
   </div>
 
 
