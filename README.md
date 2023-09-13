@@ -17,7 +17,12 @@
 [Сайт по бронированию билетов](https://github.com/hitman46923/js-cp-diploma-edited)
 
 ### Контакты
-![изображение](https://github.com/hitman46923/hitman46923/assets/38830802/ba2cc33c-c48c-489b-9a90-53d2687a2eff)[ссылка](https://t.me/hitman469)
+
+  <div id="badges">
+    <a href="https://t.me/hitman469" target="_blank">
+      <img src="https://github.com/hitman46923/hitman46923/assets/38830802/be73f1df-62cb-4b92-9e19-750ece592624
+" width="40" height="40" />
+    </a>
 
 
 
