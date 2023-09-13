@@ -20,7 +20,7 @@
 
   <div id="badges">
    
-[![alt](https://icons8.ru/icon/k4jADXhS5U1t/телеграм
+[![alt](https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&page=1&position=1&origin=search&related_id=2111646
 )](ссылка__на_ваш_профиль_в_социальной_сети)
 
 
