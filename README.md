@@ -19,7 +19,7 @@
 ### Контакты
 
   <div id="badges">
-[![Telegram]("https://www.kindpng.com/picc/m/10-103627_transparent-us-maps-clipart-telegram-png-png-download.png =100x100)](https://t.me/yourtelegramprofile)
+[![]("https://www.kindpng.com/picc/m/10-103627_transparent-us-maps-clipart-telegram-png-png-download.png =100x100)](https://t.me/yourtelegramprofile)
 
 
 
