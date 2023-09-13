@@ -18,12 +18,8 @@
 
 ### Контакты
 
-  <div id="badges">
-<img src ="https://github.com/hitman46923/hitman46923/assets/38830802/c57b8e49-2382-48bc-852c-6a371b860307">
-
-
-
-  </div>
+[Telegram](https://t.me/hitman469)
+[Почта](antoniol46923@gmail.com)
 
 
 
