@@ -21,7 +21,9 @@
   <div id="badges">
    
 
-![изображение](https://github.com/hitman46923/hitman46923/assets/38830802/59888052-d464-4225-8b91-7f2324da81aa)
+
+  <img src="https://github.com/hitman46923/hitman46923/assets/38830802/6360c467-85ef-41d0-9fb4-451207f9fe88"
+ title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
 
 
 
