@@ -19,9 +19,7 @@
 ### Контакты
 
   <div id="badges">
-   
-[![alt](https://www.flaticon.com/free-icon/telegram_2111646?term=telegram&page=1&position=1&origin=search&related_id=2111646
-)](ссылка__на_ваш_профиль_в_социальной_сети)
+ ![изображение](https://github.com/hitman46923/hitman46923/assets/38830802/29aa1e17-6e67-4f72-851b-15a6f1f3e592)
 
 
 
