@@ -20,7 +20,8 @@
 
   <div id="badges">
    
-[![Twitter](https://example.com/twitter-icon.png)](https://twitter.com/yourusername)
+[![alt текст](!https://github.com/hitman46923/hitman46923/assets/38830802/ccb0ee28-7339-4f77-89d6-e5596bcfbebd
+)](ссылка__на_ваш_профиль_в_социальной_сети)
 
 
 
