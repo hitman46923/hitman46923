@@ -20,7 +20,7 @@
 
   <div id="badges">
    
-[![alt текст](https://icons8.ru/icon/k4jADXhS5U1t/телеграм
+[](https://icons8.ru/icon/k4jADXhS5U1t/телеграм
 )](ссылка__на_ваш_профиль_в_социальной_сети)
 
 
