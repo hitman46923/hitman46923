@@ -20,7 +20,7 @@
 
   <div id="badges">
    
-[![alt текст](!https://github.com/hitman46923/hitman46923/assets/38830802/ccb0ee28-7339-4f77-89d6-e5596bcfbebd
+[![alt текст](https://icons8.ru/icon/k4jADXhS5U1t/телеграм
 )](ссылка__на_ваш_профиль_в_социальной_сети)
 
 
