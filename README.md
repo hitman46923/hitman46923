@@ -20,8 +20,8 @@
 
   <div id="badges">
    
-[![Telegram](https://icons8.ru/icon/k4jADXhS5U1t/телеграм)
-)](https://t.me/hitman469)
+[![Twitter](https://example.com/twitter-icon.png)](https://twitter.com/yourusername)
+
 
 
   </div>
