@@ -19,10 +19,8 @@
 ### Контакты
 
   <div id="badges">
- <a href="https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9-%D1%84%D0%B8%D0%BB%D0%B8%D0%BC%D0%BE%D0%BD%D0%BE%D0%B2-2a0b07257/" target="_blank">
-      <img src="https://github.com/hitman46923/hitman46923/assets/38830802/f7c02b56-9c68-464d-9a39-6912378a8cb0
-" />
-    </a>
+[![Telegram]("https://www.kindpng.com/picc/m/10-103627_transparent-us-maps-clipart-telegram-png-png-download.png =100x100)](https://t.me/yourtelegramprofile)
+
 
 
   </div>
