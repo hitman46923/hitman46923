@@ -19,7 +19,7 @@
 ### Контакты
 
   <div id="badges">
-![изображение](https://github.com/hitman46923/hitman46923/assets/38830802/c57b8e49-2382-48bc-852c-6a371b860307)
+![](https://github.com/hitman46923/hitman46923/assets/38830802/c57b8e49-2382-48bc-852c-6a371b860307)
 
 
 
