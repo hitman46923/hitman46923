@@ -19,7 +19,7 @@
 ### Контакты
 
 [Telegram](https://t.me/hitman469)
-[Почта](antoniol46923@gmail.com)
+[Почта](mailto:antoniol46923@gmail.com)
 
 
 
