@@ -18,6 +18,6 @@
 
 ### Контакты
 
-<img src="https://github.com/hitman46923/hitman46923/assets/38830802/bbe22b9c-5cca-45f3-8663-f031d5dd0c55" width="40" height="40"/>
+ <a href="https://t.me/hitman469" <img src="https://github.com/hitman46923/hitman46923/assets/38830802/bbe22b9c-5cca-45f3-8663-f031d5dd0c55" width="40" height="40"/>
 
 
