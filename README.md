@@ -12,7 +12,7 @@
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
-<b>Мои проекты на javascript </b> <br>
+### Мои проекты на javascript  <br>
 [Приложение погоды](https://github.com/hitman46923/Weather-App) <br>
 [Сайт по бронированию билетов](https://github.com/hitman46923/js-cp-diploma-edited)
 
