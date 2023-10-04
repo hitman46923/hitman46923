@@ -17,8 +17,8 @@
 </div>
 
 ### Мои проекты на javascript  <br>
-- [Сайт бронирования билетов](https://github.com/hitman46923/js-cp-diploma-edited) - Дипломный проект сделанный в Нетологии
-- [Приложение погоды](https://github.com/hitman46923/Weather-App) <br>
+- [Сайт бронирования билетов](https://github.com/hitman46923/js-cp-diploma-edited) - Дипломный проект сделанный в Нетологии <br>
+- [Приложение погоды](https://github.com/hitman46923/Weather-App)
 
 
 
