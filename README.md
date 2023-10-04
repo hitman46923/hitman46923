@@ -1,4 +1,9 @@
 ### Привет! 👋
+Я Антон Ленский , начинающий FrontEnd разработчик
+[Telegram](https://t.me/hitman469)
+[Почта](mailto:antoniol46923@gmail.com)
+
+
 
 ### 💻 Технологии <br>
 <div>
@@ -13,13 +18,10 @@
 </div>
 
 ### Мои проекты на javascript  <br>
-[Приложение погоды](https://github.com/hitman46923/Weather-App) <br>
 [Сайт по бронированию билетов](https://github.com/hitman46923/js-cp-diploma-edited)
-
+[Приложение погоды](https://github.com/hitman46923/Weather-App) <br>
 ### Контакты
 
-[Telegram](https://t.me/hitman469)
-[Почта](mailto:antoniol46923@gmail.com)
 
 
 
