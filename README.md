@@ -25,3 +25,8 @@
 
 
 
+| Проект          | Деплой                                     | Дев                                 |
+|-----------------|--------------------------------------------|-------------------------------------|
+| MyApp           | [Ссылка на деплой](https://myapp.com)      | [Репозиторий](https://github.com/AntonDev/MyApp) |
+| GameTracker     | [Live Demo](https://game-tracker.netlify.app) | [GitHub](https://github.com/AntonDev/GameTracker) |
+| WeatherWidget   | В процессе                                  | [Исходник](https://github.com/AntonDev/WeatherWidget) |
